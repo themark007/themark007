@@ -119,6 +119,17 @@ fun_fact: "Can spend hours fixing a bug… caused by a missing semicolon"
 
 ```
 
+##  GitHub Showcase
+
+[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=themark007&show_icons=true&theme=synthwave)](https://github.com/themark007)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themark007&langs_count=6&show_icons=true&theme=onedark)](https://github.com/themark007)
+
+###  Featured Repos
+[![VM Migration & Consolidation](https://github-readme-stats.vercel.app/api/pin/?username=themark007&repo=vm-consolidation)](https://github.com/themark007/vm-consolidation)
+[![Museum Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=themark007&repo=museum)](https://github.com/themark007/museum)
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
