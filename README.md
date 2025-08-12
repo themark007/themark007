@@ -179,3 +179,6 @@ fun_fact: "Can spend hours fixing a bug… caused by a missing semicolon"
 </p>
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/themark007/blob/output/github-contribution-grid-snake.svg)
+
+
