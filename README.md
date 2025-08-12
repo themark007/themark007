@@ -56,4 +56,67 @@
 
 
 
+```yaml
+name: "Mark Dsouza"
+role: "Computer Science & Engineering Student | AI & Web Dev Enthusiast"
+
+education:
+  - degree: "B.E in Computer Science & Engineering"
+    institute: "KLE Technological University, Hubballi"
+    cgpa: 8.85
+  
+
+experience:
+  - title: "Software Developer Intern"
+    company: "MindMatrix"
+    period: "June 2025 – Present"
+    work: "Developing scalable LMS platform with React, Redux, Node.js"
+  - title: "Member"
+    company: "Code Club, KLETU"
+    work: "Created daily coding challenges for students"
+  - title: "Project Lead"
+    company: "Affinity Startup"
+    work: "AI-powered relationship compatibility app"
+
+projects:
+  - name: "VM Migration & Consolidation"
+    tech: ["OpenStack", "Bash", "Python", "ML"]
+    link: "https://github.com/themark007/vm-consolidation.git"
+  - name: "Pedestrian Detection with YOLO11"
+    tech: ["YOLO11", "Roboflow", "OpenCV"]
+  - name: "Museum Ticket Booking Chatbot"
+    tech: ["Flask", "Selenium", "Docker"]
+    link: "https://github.com/themark007/museum.git"
+  - name: "Self-Hosted Cloud Drive"
+    tech: ["React", "Node.js", "Express", "OpenStack"]
+  - name: "Dynamic 5G Network Slicing"
+    tech: ["Open5GS", "srsRAN", "ML"]
+
+skills:
+  programming: ["C", "C++", "Python", "Bash", "HTML", "CSS", "JavaScript"]
+  web_dev: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "Flask", "REST APIs"]
+  databases: ["MySQL", "PostgreSQL"]
+  cloud_devops: ["Docker", "Kubernetes", "OpenStack", "Nginx", "AWS", "Postman"]
+  ai_ml: ["YOLOv11", "Pandas", "NumPy", "Matplotlib", "TensorFlow"]
+  networking_systems: ["Computer Networks", "Operating Systems", "5G"]
+
+achievements:
+  - "Presented research at INCOFT 2025"
+  - "Published paper in SCITE Press: Real-Time Pedestrian Detection Using YOLO11"
+
+certifications:
+  - "Networking Course – Juniper Networks (2024)"
+  - "AWS Educate Introduction to Cloud 101"
+
+contact:
+  email: "mark.desouza2003@gmail.com"
+  github: "https://github.com/themark007"
+  linkedin: "https://www.linkedin.com/in/mark-d’souza-694b09259/"
+  leetcode: "https://leetcode.com/u/themark17/"
+  portfolio: "https://yourportfolio.com"
+
+fun_fact: "Can spend hours fixing a bug… caused by a missing semicolon"
+
+```
+
 
