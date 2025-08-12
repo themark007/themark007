@@ -26,32 +26,34 @@
 - ❤️ I love coding, late-night debugging, and coffee ☕
 
 <!-- Social Links -->
+<!-- Social Links -->
 <p align="center">
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974374-6c8506f1-4b3b-4d3e-8654-572b18625c6b.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974377-b0c2f68b-36b0-4e9c-82f6-1e5d61dffb37.png" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/yourgithub" target="_blank">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974382-f1b89bbd-bf2e-4e59-9291-94da2398fbe0.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <!-- Email -->
   <a href="mailto:youremail@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974370-91b4f0e5-10a1-4f29-bbbb-3f43f5e05cf8.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 
