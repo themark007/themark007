@@ -1,5 +1,16 @@
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey%20Everyone!%20🕹️&fontSize=40&animation=fadeIn" />
+</p>
+
+<!-- Luffy GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" alt="Luffy Yo!" />
+</p>
+
+<!-- Funny Subtext -->
+<p align="center">
+  <b> "Yo! Ready to sail into some code adventures?" 🚀</b>
 </p>
 
 
